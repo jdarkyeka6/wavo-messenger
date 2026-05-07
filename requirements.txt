@@ -1,4 +1,0 @@
-websockets>=16.0
-supabase>=2.5.1
-python-dotenv>=1.0.0
-bcrypt>=4.1.0
