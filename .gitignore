@@ -3,3 +3,4 @@ messages.json
 wavo.db
 *.db
 _pycache_/
+users.json
