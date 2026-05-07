@@ -1,0 +1,5 @@
+.env
+messages.json
+wavo.db
+*.db
+_pycache_/
