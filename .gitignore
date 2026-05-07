@@ -4,3 +4,9 @@ wavo.db
 *.db
 _pycache_/
 users.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
